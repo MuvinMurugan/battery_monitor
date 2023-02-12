@@ -15,7 +15,7 @@ Thank You!
 
 <h3> If you want to contribute </h3>
 
-To modifying the code and build by using below steps:
+Do modifying the code and build by using below steps:
 
 Use Python and create a virtualenv and install the requirements.txt file for the dependency.
 
